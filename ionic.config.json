@@ -1,0 +1,7 @@
+{
+  "name": "firebase-storage-ionic-react",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
